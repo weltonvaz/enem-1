@@ -48,6 +48,8 @@ parts/
 sdist/
 var/
 wheels/
+__MACOSX/
+tcl/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
